@@ -1,0 +1,22 @@
+{
+  "name": "chatbotfit",
+  "version": "1.0.0",
+  "description": "Chatbot Fit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathSena/chatBotFit-telegram.git"
+  },
+  "author": "Matheus Sena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathSena/chatBotFit-telegram/issues"
+  },
+  "homepage": "https://github.com/MathSena/chatBotFit-telegram#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0"
+  }
+}
